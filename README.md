@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Nency Taraviya.</h2>
 <br>
 
-  ![Header](./github-header-image(1).png)
+  ![Header](./github-header-image (1).png)
 
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions.
