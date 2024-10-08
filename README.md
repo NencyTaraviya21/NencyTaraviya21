@@ -6,7 +6,7 @@
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions.
 
-- 🌱 I’m currently learning **DSA, Web-Development and Python**.
+- 🌱 I’m currently learning **DSA and Web-Development.**.
  
 - 📫 How to reach me: **nencytaraviya2102@gmail.com**
   
