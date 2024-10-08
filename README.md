@@ -1,7 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Nency Taraviya.</h2>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhrruvchotai&label=Profile%20views&color=0e75b6&style=flat" alt="dhrruvchotai" height="26"/> </p>
 
 - 👨🏼‍💼 Welcome to my GitHub profile! I'm passionate about coding and constantly learning new things. Here, you'll find some of my projects and contributions.
 
@@ -49,12 +48,15 @@
 
 ## 🌐 Connect with me
 
+<div align="left">
+<a href="https://twitter.com/ChotaiDhruv" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="ChotaiDhruv" height="80" width="80" /></a>
 <img width="12" />
-<a href="https://www.linkedin.com/in/nency-taraviya-37095428a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Nency Taraviya" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/dhruv-chotai-179a502aa/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="dhruv chotai" height="80" width="80" /></a>
 <img width="12" />
-<a href="https://www.instagram.com/nentara._9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Nency Taraviya" height="80" width="80" /></a>
+<a href="https://www.instagram.com/dhruvchotai.9/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="dhruvchotai.9" height="80" width="80" /></a>
 <img width="12" />
 </div>
+
 
 <br>
 
@@ -71,7 +73,7 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhrruvchotai&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NencyTaraviya21&show_icons=true&locale=en&theme=cobalt&bg_color=0d1117" /></p>
 
 <br>
 
